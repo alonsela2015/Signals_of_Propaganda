@@ -1,0 +1,16 @@
+Event	Type	Slope	Score														
+ 'Venezuela Politics'	Politics	1.654	8.091														
+ 'Spain Politics'	Politics	1.545	5.439														
+ 'Russia Politics'	Politics	2.066	6.397												"Fig 4 A, B"		
+ 'Iran Politics'	Politics	1.952	8.794														
+ 'Egypt Politics'	Politics	1.324	2.54														
+ 'Ecuador Politics'	Politics	2.261	16.037														
+ 'China Politics 1'	Politics	2.367	10.24														
+ 'China Politics 2'	Politics	2.25	10.729														
+ 'Bangladesh Politics'	Politics	3.091	4.979														
+ 'Dallas Police Shooting Disaster'	Disaster	0.554	0.504														
+ 'Florence Disaster'	Disaster	0.664	0.61														
+ 'Dorian Disaster'	Disaster	0.594	0.543														
+ 'Harvey Disaster'	Disaster	0.586	0.553														
+ 'Imelda Disaster'	Disaster	0.588	0.506														
+ 'Notre Dam Fire Disaster'	Disaster	0.545	0.415														
