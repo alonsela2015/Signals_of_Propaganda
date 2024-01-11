@@ -6,4 +6,4 @@ Code related to the article: "Signals of Propaganda” - Detecting and Estimatin
    1.2 Slopes on log-log scale ( we came into conclusion that the users are NOT distributed by a power law, but by some truncated long tail. For this reason, the slopes values for the users might be less reliable. 
    1.3 PLMSE computation. 
 
-2.images - images produced during the project, not all images are included in the article.
+2. images - images produced during the project, not all images are included in the article.
